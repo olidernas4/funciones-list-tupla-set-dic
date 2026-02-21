@@ -1,6 +1,6 @@
 #Ejemplo de la vida real
 
-#Piensa en el botón "Pagar" en tu parqueadero 🚗
+#Piensa en el botón "Pagar" en tu parqueadero 
 
 #liente carro → paga 3000
 
