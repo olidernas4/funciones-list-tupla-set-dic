@@ -30,8 +30,7 @@ carro1 = Carro("TOYOTA", "BLANCA")
 carro2 = Carro("mazda", "azul")
 ##acciones
 carro1.encender()
-carro1.acelerar()
-carro1.acelerar()
+
 carro1.frenar()
 carro1.frenar()
 carro1.apagar()
